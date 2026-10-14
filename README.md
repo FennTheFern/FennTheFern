@@ -16,6 +16,12 @@
 
 ---
 
+*Current Work:*
+
+*California tracks pesticide use statewide, but its public database lags several years behind actual spraying activity. With glyphosate applications at record levels and ongoing spray programs planned, I’m building a tool to identify treated areas in near real-time — so residents, hikers, ranchers, and anyone spending time outdoors can make more informed decisions about where they go and when.*
+
+---
+
 ## 💼 Experience
 
 **GIS Technician** · Desert Research Institute (DRI) · Reno, NV
